@@ -6,7 +6,8 @@ ViewAnimator
 
 A fluent Android animation library !
 
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+
+<a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
@@ -213,9 +214,11 @@ Looking for contributors, feel free to fork !
 Author: Florent Champigny   
 Contributor: [李玉江(liyujiang)](https://github.com/gzu-liyujiang/ViewAnimator)   
 
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+
+<a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
+
 <a href="https://plus.google.com/+florentchampigny">
   <img alt="Follow me on Google+"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/gplus.png" />
