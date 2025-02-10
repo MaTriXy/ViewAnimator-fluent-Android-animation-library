@@ -1,1 +1,4 @@
-include ':sample', ':viewanimator'
+include ':viewanimator',
+        //comment to publish
+        ':sample',
+        ':sample2'
